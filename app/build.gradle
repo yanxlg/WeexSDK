@@ -22,6 +22,7 @@ android {
     }
 }
 repositories{
+    flatDir {dirs 'libs'}
     maven {
         url  "http://dl.bintray.com/alibabaweex/maven"
     }
@@ -37,5 +38,5 @@ dependencies {
     compile 'com.android.support:recyclerview-v7:25.3.1'
     compile 'com.android.support:support-v4:25.3.1'
     compile 'com.alibaba:fastjson:1.2.31'
-    compile project(':weex')
+    compile(name:'weex_sdk-0.13.0', ext:'aar')
 }
