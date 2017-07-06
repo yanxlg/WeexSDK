@@ -101,7 +101,7 @@ public class WXScrollView extends ScrollView implements Callback, IWXScroller,
   private void init() {
     setWillNotDraw(false);
     startScrollerTask();
-//    setOverScrollMode(View.OVER_SCROLL_NEVER);
+    setOverScrollMode(View.OVER_SCROLL_NEVER);
     childHelper = new NestedScrollingChildHelper(this);
     childHelper.setNestedScrollingEnabled(true);
   }
