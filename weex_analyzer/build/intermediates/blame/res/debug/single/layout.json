@@ -1,0 +1,90 @@
+[
+    {
+        "merged": "E:\\Weex_SDK_Design\\WeexSDK\\weex_analyzer\\build\\intermediates\\res\\merged\\debug\\layout\\wxt_network_inspector_view.xml",
+        "source": "E:\\Weex_SDK_Design\\WeexSDK\\weex_analyzer\\src\\main\\res\\layout\\wxt_network_inspector_view.xml"
+    },
+    {
+        "merged": "E:\\Weex_SDK_Design\\WeexSDK\\weex_analyzer\\build\\intermediates\\res\\merged\\debug\\layout\\wxt_inspector_settings.xml",
+        "source": "E:\\Weex_SDK_Design\\WeexSDK\\weex_analyzer\\src\\main\\res\\layout\\wxt_inspector_settings.xml"
+    },
+    {
+        "merged": "E:\\Weex_SDK_Design\\WeexSDK\\weex_analyzer\\build\\intermediates\\res\\merged\\debug\\layout\\wxt_log_view.xml",
+        "source": "E:\\Weex_SDK_Design\\WeexSDK\\weex_analyzer\\src\\main\\res\\layout\\wxt_log_view.xml"
+    },
+    {
+        "merged": "E:\\Weex_SDK_Design\\WeexSDK\\weex_analyzer\\build\\intermediates\\res\\merged\\debug\\layout\\wxt_panel_history_perf_view.xml",
+        "source": "E:\\Weex_SDK_Design\\WeexSDK\\weex_analyzer\\src\\main\\res\\layout\\wxt_panel_history_perf_view.xml"
+    },
+    {
+        "merged": "E:\\Weex_SDK_Design\\WeexSDK\\weex_analyzer\\build\\intermediates\\res\\merged\\debug\\layout\\wxt_item_message.xml",
+        "source": "E:\\Weex_SDK_Design\\WeexSDK\\weex_analyzer\\src\\main\\res\\layout\\wxt_item_message.xml"
+    },
+    {
+        "merged": "E:\\Weex_SDK_Design\\WeexSDK\\weex_analyzer\\build\\intermediates\\res\\merged\\debug\\layout\\wxt_option_item.xml",
+        "source": "E:\\Weex_SDK_Design\\WeexSDK\\weex_analyzer\\src\\main\\res\\layout\\wxt_option_item.xml"
+    },
+    {
+        "merged": "E:\\Weex_SDK_Design\\WeexSDK\\weex_analyzer\\build\\intermediates\\res\\merged\\debug\\layout\\wxt_memory_view.xml",
+        "source": "E:\\Weex_SDK_Design\\WeexSDK\\weex_analyzer\\src\\main\\res\\layout\\wxt_memory_view.xml"
+    },
+    {
+        "merged": "E:\\Weex_SDK_Design\\WeexSDK\\weex_analyzer\\build\\intermediates\\res\\merged\\debug\\layout\\wxt_memory_chart.xml",
+        "source": "E:\\Weex_SDK_Design\\WeexSDK\\weex_analyzer\\src\\main\\res\\layout\\wxt_memory_chart.xml"
+    },
+    {
+        "merged": "E:\\Weex_SDK_Design\\WeexSDK\\weex_analyzer\\build\\intermediates\\res\\merged\\debug\\layout\\wxt_panel_cur_perf_view.xml",
+        "source": "E:\\Weex_SDK_Design\\WeexSDK\\weex_analyzer\\src\\main\\res\\layout\\wxt_panel_cur_perf_view.xml"
+    },
+    {
+        "merged": "E:\\Weex_SDK_Design\\WeexSDK\\weex_analyzer\\build\\intermediates\\res\\merged\\debug\\layout\\wxt_activity_settings.xml",
+        "source": "E:\\Weex_SDK_Design\\WeexSDK\\weex_analyzer\\src\\main\\res\\layout\\wxt_activity_settings.xml"
+    },
+    {
+        "merged": "E:\\Weex_SDK_Design\\WeexSDK\\weex_analyzer\\build\\intermediates\\res\\merged\\debug\\layout\\wxt_log_settngs.xml",
+        "source": "E:\\Weex_SDK_Design\\WeexSDK\\weex_analyzer\\src\\main\\res\\layout\\wxt_log_settngs.xml"
+    },
+    {
+        "merged": "E:\\Weex_SDK_Design\\WeexSDK\\weex_analyzer\\build\\intermediates\\res\\merged\\debug\\layout\\wxt_depth_sample_view.xml",
+        "source": "E:\\Weex_SDK_Design\\WeexSDK\\weex_analyzer\\src\\main\\res\\layout\\wxt_depth_sample_view.xml"
+    },
+    {
+        "merged": "E:\\Weex_SDK_Design\\WeexSDK\\weex_analyzer\\build\\intermediates\\res\\merged\\debug\\layout\\wxt_panel_inspector_view.xml",
+        "source": "E:\\Weex_SDK_Design\\WeexSDK\\weex_analyzer\\src\\main\\res\\layout\\wxt_panel_inspector_view.xml"
+    },
+    {
+        "merged": "E:\\Weex_SDK_Design\\WeexSDK\\weex_analyzer\\build\\intermediates\\res\\merged\\debug\\layout\\wxt_storage_view.xml",
+        "source": "E:\\Weex_SDK_Design\\WeexSDK\\weex_analyzer\\src\\main\\res\\layout\\wxt_storage_view.xml"
+    },
+    {
+        "merged": "E:\\Weex_SDK_Design\\WeexSDK\\weex_analyzer\\build\\intermediates\\res\\merged\\debug\\layout\\wxt_styleable_radio_btn.xml",
+        "source": "E:\\Weex_SDK_Design\\WeexSDK\\weex_analyzer\\src\\main\\res\\layout\\wxt_styleable_radio_btn.xml"
+    },
+    {
+        "merged": "E:\\Weex_SDK_Design\\WeexSDK\\weex_analyzer\\build\\intermediates\\res\\merged\\debug\\layout\\wxt_item_storage.xml",
+        "source": "E:\\Weex_SDK_Design\\WeexSDK\\weex_analyzer\\src\\main\\res\\layout\\wxt_item_storage.xml"
+    },
+    {
+        "merged": "E:\\Weex_SDK_Design\\WeexSDK\\weex_analyzer\\build\\intermediates\\res\\merged\\debug\\layout\\wxt_inspector_view.xml",
+        "source": "E:\\Weex_SDK_Design\\WeexSDK\\weex_analyzer\\src\\main\\res\\layout\\wxt_inspector_view.xml"
+    },
+    {
+        "merged": "E:\\Weex_SDK_Design\\WeexSDK\\weex_analyzer\\build\\intermediates\\res\\merged\\debug\\layout\\wxt_weex_perf_analysis_view.xml",
+        "source": "E:\\Weex_SDK_Design\\WeexSDK\\weex_analyzer\\src\\main\\res\\layout\\wxt_weex_perf_analysis_view.xml"
+    },
+    {
+        "merged": "E:\\Weex_SDK_Design\\WeexSDK\\weex_analyzer\\build\\intermediates\\res\\merged\\debug\\layout\\wxt_item_log.xml",
+        "source": "E:\\Weex_SDK_Design\\WeexSDK\\weex_analyzer\\src\\main\\res\\layout\\wxt_item_log.xml"
+    },
+    {
+        "merged": "E:\\Weex_SDK_Design\\WeexSDK\\weex_analyzer\\build\\intermediates\\res\\merged\\debug\\layout\\wxt_cur_perf_header.xml",
+        "source": "E:\\Weex_SDK_Design\\WeexSDK\\weex_analyzer\\src\\main\\res\\layout\\wxt_cur_perf_header.xml"
+    },
+    {
+        "merged": "E:\\Weex_SDK_Design\\WeexSDK\\weex_analyzer\\build\\intermediates\\res\\merged\\debug\\layout\\wxt_perf_overlay_view.xml",
+        "source": "E:\\Weex_SDK_Design\\WeexSDK\\weex_analyzer\\src\\main\\res\\layout\\wxt_perf_overlay_view.xml"
+    },
+    {
+        "merged": "E:\\Weex_SDK_Design\\WeexSDK\\weex_analyzer\\build\\intermediates\\res\\merged\\debug\\layout\\wxt_entrance_layout.xml",
+        "source": "E:\\Weex_SDK_Design\\WeexSDK\\weex_analyzer\\src\\main\\res\\layout\\wxt_entrance_layout.xml"
+    }
+]

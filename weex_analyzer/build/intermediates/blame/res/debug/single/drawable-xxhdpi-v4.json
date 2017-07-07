@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "E:\\Weex_SDK_Design\\WeexSDK\\weex_analyzer\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\wxt_icon_unchecked.png",
+        "source": "E:\\Weex_SDK_Design\\WeexSDK\\weex_analyzer\\src\\main\\res\\drawable-xxhdpi\\wxt_icon_unchecked.png"
+    },
+    {
+        "merged": "E:\\Weex_SDK_Design\\WeexSDK\\weex_analyzer\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\wxt_icon_cpu.png",
+        "source": "E:\\Weex_SDK_Design\\WeexSDK\\weex_analyzer\\src\\main\\res\\drawable-xxhdpi\\wxt_icon_cpu.png"
+    },
+    {
+        "merged": "E:\\Weex_SDK_Design\\WeexSDK\\weex_analyzer\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\wxt_icon_view_inspector.png",
+        "source": "E:\\Weex_SDK_Design\\WeexSDK\\weex_analyzer\\src\\main\\res\\drawable-xxhdpi\\wxt_icon_view_inspector.png"
+    },
+    {
+        "merged": "E:\\Weex_SDK_Design\\WeexSDK\\weex_analyzer\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\wxt_icon_mtop.png",
+        "source": "E:\\Weex_SDK_Design\\WeexSDK\\weex_analyzer\\src\\main\\res\\drawable-xxhdpi\\wxt_icon_mtop.png"
+    },
+    {
+        "merged": "E:\\Weex_SDK_Design\\WeexSDK\\weex_analyzer\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\wxt_icon_log.png",
+        "source": "E:\\Weex_SDK_Design\\WeexSDK\\weex_analyzer\\src\\main\\res\\drawable-xxhdpi\\wxt_icon_log.png"
+    },
+    {
+        "merged": "E:\\Weex_SDK_Design\\WeexSDK\\weex_analyzer\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\wxt_icon_render_analysis.png",
+        "source": "E:\\Weex_SDK_Design\\WeexSDK\\weex_analyzer\\src\\main\\res\\drawable-xxhdpi\\wxt_icon_render_analysis.png"
+    },
+    {
+        "merged": "E:\\Weex_SDK_Design\\WeexSDK\\weex_analyzer\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\wxt_icon_debug.png",
+        "source": "E:\\Weex_SDK_Design\\WeexSDK\\weex_analyzer\\src\\main\\res\\drawable-xxhdpi\\wxt_icon_debug.png"
+    },
+    {
+        "merged": "E:\\Weex_SDK_Design\\WeexSDK\\weex_analyzer\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\wxt_icon_traffic.png",
+        "source": "E:\\Weex_SDK_Design\\WeexSDK\\weex_analyzer\\src\\main\\res\\drawable-xxhdpi\\wxt_icon_traffic.png"
+    },
+    {
+        "merged": "E:\\Weex_SDK_Design\\WeexSDK\\weex_analyzer\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\wxt_icon_memory.png",
+        "source": "E:\\Weex_SDK_Design\\WeexSDK\\weex_analyzer\\src\\main\\res\\drawable-xxhdpi\\wxt_icon_memory.png"
+    },
+    {
+        "merged": "E:\\Weex_SDK_Design\\WeexSDK\\weex_analyzer\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\wxt_icon_multi_performance.png",
+        "source": "E:\\Weex_SDK_Design\\WeexSDK\\weex_analyzer\\src\\main\\res\\drawable-xxhdpi\\wxt_icon_multi_performance.png"
+    },
+    {
+        "merged": "E:\\Weex_SDK_Design\\WeexSDK\\weex_analyzer\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\wxt_icon_storage.png",
+        "source": "E:\\Weex_SDK_Design\\WeexSDK\\weex_analyzer\\src\\main\\res\\drawable-xxhdpi\\wxt_icon_storage.png"
+    },
+    {
+        "merged": "E:\\Weex_SDK_Design\\WeexSDK\\weex_analyzer\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\wxt_icon_settings.png",
+        "source": "E:\\Weex_SDK_Design\\WeexSDK\\weex_analyzer\\src\\main\\res\\drawable-xxhdpi\\wxt_icon_settings.png"
+    },
+    {
+        "merged": "E:\\Weex_SDK_Design\\WeexSDK\\weex_analyzer\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\wxt_icon_performance.png",
+        "source": "E:\\Weex_SDK_Design\\WeexSDK\\weex_analyzer\\src\\main\\res\\drawable-xxhdpi\\wxt_icon_performance.png"
+    },
+    {
+        "merged": "E:\\Weex_SDK_Design\\WeexSDK\\weex_analyzer\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\wxt_icon_checked.png",
+        "source": "E:\\Weex_SDK_Design\\WeexSDK\\weex_analyzer\\src\\main\\res\\drawable-xxhdpi\\wxt_icon_checked.png"
+    },
+    {
+        "merged": "E:\\Weex_SDK_Design\\WeexSDK\\weex_analyzer\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\wxt_icon_3d_rotation.png",
+        "source": "E:\\Weex_SDK_Design\\WeexSDK\\weex_analyzer\\src\\main\\res\\drawable-xxhdpi\\wxt_icon_3d_rotation.png"
+    },
+    {
+        "merged": "E:\\Weex_SDK_Design\\WeexSDK\\weex_analyzer\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\wxt_icon_fps.png",
+        "source": "E:\\Weex_SDK_Design\\WeexSDK\\weex_analyzer\\src\\main\\res\\drawable-xxhdpi\\wxt_icon_fps.png"
+    }
+]

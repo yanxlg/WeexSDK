@@ -4,11 +4,9 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/WeexSDK.iml" filepath="$PROJECT_DIR$/WeexSDK.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/commons/commons.iml" filepath="$PROJECT_DIR$/commons/commons.iml" />
-      <module fileurl="file://$PROJECT_DIR$/playground/app/playground.iml" filepath="$PROJECT_DIR$/playground/app/playground.iml" />
-      <module fileurl="file://$PROJECT_DIR$/sdk/sdk.iml" filepath="$PROJECT_DIR$/sdk/sdk.iml" />
-      <module fileurl="file://$PROJECT_DIR$/weex/weex.iml" filepath="$PROJECT_DIR$/weex/weex.iml" />
-      <module fileurl="file://$PROJECT_DIR$/weex_debug/weex_debug.iml" filepath="$PROJECT_DIR$/weex_debug/weex_debug.iml" />
+      <module fileurl="file://$PROJECT_DIR$/weex_analyzer/weex_analyzer.iml" filepath="$PROJECT_DIR$/weex_analyzer/weex_analyzer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/weex/weex_bridge.iml" filepath="$PROJECT_DIR$/weex/weex_bridge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sdk/weex_sdk.iml" filepath="$PROJECT_DIR$/sdk/weex_sdk.iml" />
     </modules>
   </component>
 </project>

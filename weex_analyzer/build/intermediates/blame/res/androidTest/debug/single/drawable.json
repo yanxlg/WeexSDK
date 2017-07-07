@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "E:\\Weex_SDK_Design\\WeexSDK\\weex_analyzer\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\wxt_radio_btn_style.xml",
+        "source": "E:\\Weex_SDK_Design\\WeexSDK\\weex_analyzer\\build\\intermediates\\bundles\\debug\\res\\drawable\\wxt_radio_btn_style.xml"
+    },
+    {
+        "merged": "E:\\Weex_SDK_Design\\WeexSDK\\weex_analyzer\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\error.png",
+        "source": "E:\\Weex_SDK_Design\\WeexSDK\\sdk\\build\\intermediates\\bundles\\default\\res\\drawable\\error.png"
+    },
+    {
+        "merged": "E:\\Weex_SDK_Design\\WeexSDK\\weex_analyzer\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\wxt_radio_checked.xml",
+        "source": "E:\\Weex_SDK_Design\\WeexSDK\\weex_analyzer\\build\\intermediates\\bundles\\debug\\res\\drawable\\wxt_radio_checked.xml"
+    },
+    {
+        "merged": "E:\\Weex_SDK_Design\\WeexSDK\\weex_analyzer\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\wxt_btn_bg.xml",
+        "source": "E:\\Weex_SDK_Design\\WeexSDK\\weex_analyzer\\build\\intermediates\\bundles\\debug\\res\\drawable\\wxt_btn_bg.xml"
+    },
+    {
+        "merged": "E:\\Weex_SDK_Design\\WeexSDK\\weex_analyzer\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\wxt_radio_unchecked.xml",
+        "source": "E:\\Weex_SDK_Design\\WeexSDK\\weex_analyzer\\build\\intermediates\\bundles\\debug\\res\\drawable\\wxt_radio_unchecked.xml"
+    },
+    {
+        "merged": "E:\\Weex_SDK_Design\\WeexSDK\\weex_analyzer\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\wxt_check_box_style.xml",
+        "source": "E:\\Weex_SDK_Design\\WeexSDK\\weex_analyzer\\build\\intermediates\\bundles\\debug\\res\\drawable\\wxt_check_box_style.xml"
+    }
+]

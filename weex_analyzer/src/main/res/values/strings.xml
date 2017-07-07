@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wxt_close">Close</string>
+    <string name="wxt_size">Size</string>
+    <string name="wxt_closed">closed</string>
+    <string name="wxt_opened">opened</string>
+    <string name="wxt_memory">memory statistics</string>
+    <string name="wxt_perf_statistics">Weex性能指标统计</string>
+    <string name="wxt_fps">fps statistics</string>
+    <string name="wxt_cpu">cpu statistics(current app,user+kernel)</string>
+    <string name="wxt_traffic">traffic statistics</string>
+    <string name="wxt_settings">Settings</string>
+    <string name="wxt_clear">Clear</string>
+    <string name="wxt_search">Search</string>
+    <string name="wxt_collapse">Collapse</string>
+    <string name="wxt_average">createInstance时间:%1$.2fms \n首屏时间:%2$.2fms \n网络时间:%3$.2fms</string>
+    <string name="wxt_history_perf_statistics">history performance statistics of current page</string>
+
+    <string name="wxt_clear_keyword">clear keyword</string>
+    <string name="wxt_input_keyword">input keyword</string>
+    <string name="wxt_current_keyword">current keyword:</string>
+    <string name="wxt_current_keyword_format">current keyword:%s</string>
+    <string name="wxt_dev_tool">Weex-Analyzer</string>
+    <string name="wxt_tips_inspector_view">tips:点击选择你要审查的元素</string>
+
+</resources>

@@ -1,0 +1,3 @@
+D com/taobao/weex/analyzer/Config$Option
+D com/taobao/weex/analyzer/core/reporter/IDataReporter$OptionType
+D com/taobao/weex/analyzer/view/overlay/IResizableView$Size

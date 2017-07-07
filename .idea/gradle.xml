@@ -11,6 +11,7 @@
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/sdk" />
             <option value="$PROJECT_DIR$/weex" />
+            <option value="$PROJECT_DIR$/weex_analyzer" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

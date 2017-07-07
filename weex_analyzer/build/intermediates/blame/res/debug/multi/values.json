@@ -1,0 +1,448 @@
+[
+    {
+        "outputFile": "E:\\Weex_SDK_Design\\WeexSDK\\weex_analyzer\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 97,
+                    "endOffset": 148
+                },
+                "from": {
+                    "file": "E:\\Weex_SDK_Design\\WeexSDK\\weex_analyzer\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 740,
+                        "endColumn": 97,
+                        "endOffset": 833
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 153,
+                    "endColumn": 43,
+                    "endOffset": 192
+                },
+                "from": {
+                    "file": "E:\\Weex_SDK_Design\\WeexSDK\\weex_analyzer\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 597,
+                        "endColumn": 43,
+                        "endOffset": 636
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 197,
+                    "endColumn": 59,
+                    "endOffset": 252
+                },
+                "from": {
+                    "file": "E:\\Weex_SDK_Design\\WeexSDK\\weex_analyzer\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 945,
+                        "endColumn": 59,
+                        "endOffset": 1000
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 257,
+                    "endColumn": 43,
+                    "endOffset": 296
+                },
+                "from": {
+                    "file": "E:\\Weex_SDK_Design\\WeexSDK\\weex_analyzer\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 57,
+                        "endColumn": 43,
+                        "endOffset": 96
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 301,
+                    "endColumn": 45,
+                    "endOffset": 342
+                },
+                "from": {
+                    "file": "E:\\Weex_SDK_Design\\WeexSDK\\weex_analyzer\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 145,
+                        "endColumn": 45,
+                        "endOffset": 186
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 347,
+                    "endColumn": 49,
+                    "endOffset": 392
+                },
+                "from": {
+                    "file": "E:\\Weex_SDK_Design\\WeexSDK\\weex_analyzer\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 689,
+                        "endColumn": 49,
+                        "endOffset": 734
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 397,
+                    "endColumn": 75,
+                    "endOffset": 468
+                },
+                "from": {
+                    "file": "E:\\Weex_SDK_Design\\WeexSDK\\weex_analyzer\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 409,
+                        "endColumn": 75,
+                        "endOffset": 480
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 473,
+                    "endColumn": 64,
+                    "endOffset": 533
+                },
+                "from": {
+                    "file": "E:\\Weex_SDK_Design\\WeexSDK\\weex_analyzer\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1067,
+                        "endColumn": 64,
+                        "endOffset": 1127
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 538,
+                    "endColumn": 73,
+                    "endOffset": 607
+                },
+                "from": {
+                    "file": "E:\\Weex_SDK_Design\\WeexSDK\\weex_analyzer\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1133,
+                        "endColumn": 73,
+                        "endOffset": 1202
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 612,
+                    "endColumn": 54,
+                    "endOffset": 662
+                },
+                "from": {
+                    "file": "E:\\Weex_SDK_Design\\WeexSDK\\weex_analyzer\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1208,
+                        "endColumn": 54,
+                        "endOffset": 1258
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 667,
+                    "endColumn": 50,
+                    "endOffset": 713
+                },
+                "from": {
+                    "file": "E:\\Weex_SDK_Design\\WeexSDK\\weex_analyzer\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 357,
+                        "endColumn": 50,
+                        "endOffset": 403
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 718,
+                    "endColumn": 102,
+                    "endOffset": 816
+                },
+                "from": {
+                    "file": "E:\\Weex_SDK_Design\\WeexSDK\\weex_analyzer\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 839,
+                        "endColumn": 102,
+                        "endOffset": 937
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 821,
+                    "endColumn": 59,
+                    "endOffset": 876
+                },
+                "from": {
+                    "file": "E:\\Weex_SDK_Design\\WeexSDK\\weex_analyzer\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1006,
+                        "endColumn": 59,
+                        "endOffset": 1061
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 881,
+                    "endColumn": 56,
+                    "endOffset": 933
+                },
+                "from": {
+                    "file": "E:\\Weex_SDK_Design\\WeexSDK\\weex_analyzer\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 239,
+                        "endColumn": 56,
+                        "endOffset": 291
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 938,
+                    "endColumn": 45,
+                    "endOffset": 979
+                },
+                "from": {
+                    "file": "E:\\Weex_SDK_Design\\WeexSDK\\weex_analyzer\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 192,
+                        "endColumn": 45,
+                        "endOffset": 233
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 984,
+                    "endColumn": 58,
+                    "endOffset": 1038
+                },
+                "from": {
+                    "file": "E:\\Weex_SDK_Design\\WeexSDK\\weex_analyzer\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 297,
+                        "endColumn": 58,
+                        "endOffset": 351
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1043,
+                    "endColumn": 45,
+                    "endOffset": 1084
+                },
+                "from": {
+                    "file": "E:\\Weex_SDK_Design\\WeexSDK\\weex_analyzer\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 642,
+                        "endColumn": 45,
+                        "endOffset": 683
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1089,
+                    "endColumn": 49,
+                    "endOffset": 1134
+                },
+                "from": {
+                    "file": "E:\\Weex_SDK_Design\\WeexSDK\\weex_analyzer\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 546,
+                        "endColumn": 49,
+                        "endOffset": 591
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1139,
+                    "endColumn": 41,
+                    "endOffset": 1176
+                },
+                "from": {
+                    "file": "E:\\Weex_SDK_Design\\WeexSDK\\weex_analyzer\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 102,
+                        "endColumn": 41,
+                        "endOffset": 139
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1181,
+                    "endColumn": 68,
+                    "endOffset": 1245
+                },
+                "from": {
+                    "file": "E:\\Weex_SDK_Design\\WeexSDK\\weex_analyzer\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1264,
+                        "endColumn": 68,
+                        "endOffset": 1328
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1250,
+                    "endColumn": 58,
+                    "endOffset": 1304
+                },
+                "from": {
+                    "file": "E:\\Weex_SDK_Design\\WeexSDK\\weex_analyzer\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 486,
+                        "endColumn": 58,
+                        "endOffset": 540
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1309,
+                    "endLine": 25,
+                    "endColumn": 12,
+                    "endOffset": 1474
+                },
+                "from": {
+                    "file": "E:\\Weex_SDK_Design\\WeexSDK\\weex_analyzer\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 250,
+                        "endLine": 11,
+                        "endColumn": 12,
+                        "endOffset": 439
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1479,
+                    "endLine": 28,
+                    "endColumn": 12,
+                    "endOffset": 1650
+                },
+                "from": {
+                    "file": "E:\\Weex_SDK_Design\\WeexSDK\\weex_analyzer\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 57,
+                        "endLine": 5,
+                        "endColumn": 12,
+                        "endOffset": 242
+                    }
+                }
+            }
+        ]
+    }
+]

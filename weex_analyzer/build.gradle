@@ -1,0 +1,47 @@
+apply plugin: 'com.android.library'
+
+android {
+    compileSdkVersion 25
+    buildToolsVersion '25.0.2'
+
+    defaultConfig {
+        minSdkVersion 14
+        targetSdkVersion 25
+        versionCode 1
+        versionName "1.0"
+        testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+        debug {
+            testCoverageEnabled = true
+        }
+    }
+
+    lintOptions {
+        abortOnError false
+    }
+
+}
+
+//apply from: 'binary.gradle'
+//apply from: 'maven.gradle'
+
+dependencies {
+    compile project(':weex_sdk')
+    provided 'com.android.support:recyclerview-v7:25.3.1'
+    provided 'com.alibaba:fastjson:1.1.46.android'
+    provided 'com.android.support:support-v4:25.3.1'
+    testCompile 'junit:junit:4.12'
+
+    testCompile 'org.mockito:mockito-core:1.9.5'
+
+    testCompile "org.robolectric:robolectric:3.1.4"
+    testCompile "org.robolectric:shadows-support-v4:3.1.4"
+    testCompile "org.powermock:powermock-module-junit4:1.6.4"
+    testCompile "org.powermock:powermock-module-junit4-rule:1.6.4"
+    testCompile "org.powermock:powermock-api-mockito:1.6.4"
+}

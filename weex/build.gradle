@@ -32,5 +32,7 @@ dependencies {
     })
     compile 'com.android.support:appcompat-v7:25.3.1'
     testCompile 'junit:junit:4.12'
-    compile project(':sdk')
+    compile 'com.facebook.fresco:fresco:1.3.0'
+
+    compile project(':weex_analyzer')
 }

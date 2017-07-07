@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.taobao.weex.analyzer.test" >
+
+    <uses-sdk
+        android:minSdkVersion="14"
+        android:targetSdkVersion="25" />
+
+    <instrumentation
+        android:name="android.support.test.runner.AndroidJUnitRunner"
+        android:functionalTest="false"
+        android:handleProfiling="false"
+        android:label="Tests for com.taobao.weex.analyzer.test"
+        android:targetPackage="com.taobao.weex.analyzer.test" />
+
+    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+    <uses-permission android:name="android.permission.READ_LOGS" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <application>
+        <uses-library android:name="android.test.runner" />
+
+        <activity
+            android:name="com.taobao.weex.analyzer.core.settings.SettingsActivity"
+            android:screenOrientation="portrait" />
+
+        <receiver
+            android:name="com.taobao.weex.analyzer.core.LaunchAnalyzerReceiver"
+            android:enabled="true" >
+            <intent-filter>
+                <action android:name="com.taobao.weex.analyzer.LaunchService" />
+            </intent-filter>
+        </receiver>
+
+        <service
+            android:name="com.taobao.weex.analyzer.core.reporter.AnalyzerService"
+            android:exported="false" >
+        </service>
+
+        <receiver
+            android:name="com.taobao.weex.WXGlobalEventReceiver"
+            android:enabled="true"
+            android:exported="false" >
+        </receiver>
+    </application>
+
+</manifest>

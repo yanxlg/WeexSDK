@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.taobao.weex.analyzer"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="14"
+        android:targetSdkVersion="25" />
+
+    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+    <uses-permission android:name="android.permission.READ_LOGS" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <application>
+        <activity
+            android:name="com.taobao.weex.analyzer.core.settings.SettingsActivity"
+            android:screenOrientation="portrait" />
+
+        <receiver
+            android:name="com.taobao.weex.analyzer.core.LaunchAnalyzerReceiver"
+            android:enabled="true" >
+            <intent-filter>
+                <action android:name="com.taobao.weex.analyzer.LaunchService" />
+            </intent-filter>
+        </receiver>
+
+        <service
+            android:name="com.taobao.weex.analyzer.core.reporter.AnalyzerService"
+            android:exported="false" >
+        </service>
+    </application>
+
+</manifest>
